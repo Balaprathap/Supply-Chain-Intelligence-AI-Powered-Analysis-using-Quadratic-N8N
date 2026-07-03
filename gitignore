@@ -1,0 +1,49 @@
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Node modules
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Credentials & Secrets
+credentials.json
+secrets.json
+*.key
+*.pem
+
+# Database
+*.sql
+db_backup/
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# N8N specific
+n8n_data/
+.n8n/
+
+# Supabase local
+supabase/.branches/
+supabase/.temp/
+
+# Build outputs
+dist/
+build/
+
+# Cache
+.cache/
+*.cache
