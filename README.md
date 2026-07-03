@@ -809,7 +809,7 @@ n8n
 ## Images & Visual Diagrams
 
 ### 1. Architecture Diagram
-**File:** `architecture-diagram.png`
+**File:** `Diagram/architecture-diagram.png`
 
 Professional Freeform system architecture with 4 layers:
 
@@ -835,7 +835,7 @@ Professional Freeform system architecture with 4 layers:
 - Export to reports & dashboards
 
 ### 2. N8N Workflow Visualization
-**File:** `n8n-workflow.png`
+**File:** `Diagram/n8n-workflow.png`
 
 Live N8N workflow execution diagram:
 - **Gmail Trigger:** Polls inbox for "daily sales" emails (1 item)
@@ -844,7 +844,7 @@ Live N8N workflow execution diagram:
 - **Insert to Database (×2):** Parallel inserts with 57 + 109 rows respectively
 
 ### 3. Quadratic Data View
-**File:** `quadratic-data-view.png`
+**File:** `Diagram/quadratic-data-view.png`
 
 Live Supabase connection in Quadratic showing:
 - Real-time PostgreSQL data query results
@@ -853,7 +853,7 @@ Live Supabase connection in Quadratic showing:
 - "Connected" status showing active database link
 
 ### 4. Google Sheets Master Data
-**File:** `google-sheets-data.png`
+**File:** `Diagram/google-sheets-data.png`
 
 Primary data source showing Fact_Order_Summary sheet with:
 - 24+ rows of detailed order information
@@ -873,12 +873,7 @@ For questions or collaboration:
 
 ---
 
-## License
 
-This project is provided as-is for portfolio and educational purposes.
 
----
 
-**Last Updated:** July 3, 2026  
-**Data Period:** May 17, 2025  
-**Status:** Active
+
