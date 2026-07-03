@@ -863,13 +863,24 @@ Primary data source showing Fact_Order_Summary sheet with:
 - Date ranges showing March 2025 data
 
 ---
+>  **Live Dashboard Available**
+> 
+> View the real-time analysis on Quadratic:
+> 
+> **[Supply Chain Intelligence Dashboard](https://app.quadratichq.com/file/fd8c063f-eb2e-4c13-8a9d-f507a5681d27)**
+> 
+> - OTIF %, In-Full %, On-Time % metrics
+> - Top 5 customer performance rankings  
+> - Interactive charts & trend analysis
+> - Export to CSV/PDF
+
 
 
 
 For questions or collaboration:
-- **GitHub:** [Your GitHub Repo]
-- **Portfolio:** [Your Portfolio Link]
-- **Email:** [Your Email]
+- **GitHub:** [ GitHub Repo](https://github.com/Balaprathap/)
+- **Portfolio:** [ Portfolio Link](https://balaprathap.github.io/portfolio/)
+- **Email:** [ Email](balaprathapc@gmail.com)
 
 ---
 
